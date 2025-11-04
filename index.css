@@ -1,0 +1,4 @@
+/* Tailwind via CDN handles most styles. This file prevents 404s and adds minor tweaks. */
+html, body { min-height: 100%; }
+:root { color-scheme: light; }
+    
